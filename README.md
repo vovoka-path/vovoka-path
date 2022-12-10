@@ -3,7 +3,7 @@
 
 <h3 align="center">My CV: <a href="https://vovoka.space/">vovoka.space</a>.</h3>
 
-<p align="center">Hi! Now I open to work and in search of a great company. I want to make money for you. Where are you, my best employer?</p>
+<p align="center">Hi! Now I open to work and in search of a great company. I want to make money for you.</p>
 
 ***
 
