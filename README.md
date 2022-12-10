@@ -1,12 +1,3 @@
-<h1 align="center">My name is <a href="https://vovoka.space/">Vladimir Polansky</a>.</h1>
-<h2 align="center">I'm frontend developer.</h2>
-
-<h3 align="center">My CV: <a href="https://vovoka.space/">vovoka.space</a>.</h3>
-
-<p align="center">Hi! Now I open to work and in search of a great company. I want to make money for you.</p>
-
-***
-
 <h2 align="center">My skills:</h2>
 
 <p align="center" display="flex" flex-wrap="wrap">
@@ -30,6 +21,14 @@
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-blue?style=flat&color=F7B93E&logo=prettier&logoColor=ffffff" height="24" />
 </p>
 
+<h1 align="center">My name is <a href="https://vovoka.space/">Vladimir Polansky</a>.</h1>
+<p align="center">Hi! Now I open to work and in search of a great company. I want to make money for you.</p>
+<h2 align="center">I'm frontend developer. My CV: <a href="https://vovoka.space/">vovoka.space</a>.</h2>
+
+<!-- <h3 align="center"></h3> -->
+
+
+
 <h2 align="center">Contact me now!</h2>
 
 <p align="center">
@@ -49,8 +48,6 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&color=f0f6fc&logo=gmail&logoColor=EA4335" height="32" />
   </a>
 </p>
-
-***
 
 <!--
 **vovoka-path/vovoka-path** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
