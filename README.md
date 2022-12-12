@@ -1,11 +1,14 @@
 <h2 align="center">My skills:</h2>
 
 <p align="center" display="flex" flex-wrap="wrap">
-  <img alt="React" src="https://img.shields.io/badge/React-blue?style=flat&color=black&logo=react&logoColor=61DAFB" height="24" />
-  <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-blue?style=flat&color=663399&logo=gatsby&logoColor=ffffff" height="24" />
-  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-blue?style=flat&color=3178C6&logo=typescript&logoColor=ffffff" height="24" />
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat&color=F7DF1E&logo=javascript&logoColor=ffffff" height="24" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-blue?style=flat&color=339933&logo=nodedotjs&logoColor=ffffff" height="24" />
+  <img alt="React" src="https://img.shields.io/badge/React-blue?style=flat&color=black&logo=react&logoColor=61DAFB" height="32" />
+  <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-blue?style=flat&color=663399&logo=gatsby&logoColor=ffffff" height="32" />
+  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-blue?style=flat&color=3178C6&logo=typescript&logoColor=ffffff" height="32" />
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat&color=F7DF1E&logo=javascript&logoColor=ffffff" height="32" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-blue?style=flat&color=339933&logo=nodedotjs&logoColor=ffffff" height="32" />
+</p>
+
+<p align="center" display="flex" flex-wrap="wrap">
   <img alt="Express" src="https://img.shields.io/badge/Express-blue?style=flat&color=000000&logo=express&logoColor=ffffff" height="24" />
   <img alt="Testing Library" src="https://img.shields.io/badge/TestingLibrary-blue?style=flat&color=E33332&logo=testinglibrary&logoColor=ffffff" height="24" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-blue?style=flat&color=C21325&logo=jest&logoColor=ffffff" height="24" />
