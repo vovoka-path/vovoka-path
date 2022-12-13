@@ -1,4 +1,9 @@
-<h2 align="center">Main skills:</h2>
+
+<p align="center">Hi! I'm frontend developer. Now I open to work and in search of a great company. I want to make money for you.</p>
+<h1 align="center">My name is <a href="https://vovoka.space/">Vladimir Polansky</a>.</h1>
+<h2 align="center">My CV: <a href="https://vovoka.space/">vovoka.space</a>.</h2>
+
+<h3 align="center">Main skills:</h3>
 
 <p align="center" display="flex" flex-wrap="wrap">
   <img alt="React" src="https://img.shields.io/badge/React-blue?style=flat&color=black&logo=react&logoColor=61DAFB" height="32" />
@@ -28,15 +33,7 @@
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-blue?style=flat&color=117AC9&logo=WordPress&logoColor=ffffff" height="24" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-blue?style=flat&color=430098&logo=heroku&logoColor=ffffff" height="24" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-blue?style=flat&color=000000&logo=netlify&logoColor=ffffff" height="24" />
-</p>WordPress
-
-<h1 align="center">My name is <a href="https://vovoka.space/">Vladimir Polansky</a>.</h1>
-<p align="center">Hi! Now I open to work and in search of a great company. I want to make money for you.</p>
-<h2 align="center">I'm frontend developer. My CV: <a href="https://vovoka.space/">vovoka.space</a>.</h2>
-
-<!-- <h3 align="center"></h3> -->
-
-
+</p>
 
 <h2 align="center">Contact me now!</h2>
 
