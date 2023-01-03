@@ -1,9 +1,10 @@
 
-<p align="center">Hi! I'm frontend developer. Now I open to work and in search of a great company. I want to make money for you.</p>
-<h1 align="center">My name is <a href="https://vovoka.space/">Vladimir Polansky</a>.</h1>
-<h2 align="center">My CV: <a href="https://vovoka.space/">vovoka.space</a>.</h2>
+<h2 align="center">Open to work!</h2>
+<h3 align="center">See and download my CV -> <a href="https://vovoka.space/">https://vovoka.space</a></h3>
 
-<h3 align="center">Main skills:</h3>
+<h1 align="center"><a href="https://vovoka.space/">Vladimir Polansky</a></h1>
+
+<h4 align="center">Skills</h4>
 
 <p align="center" display="flex" flex-wrap="wrap">
   <img alt="React" src="https://img.shields.io/badge/React-blue?style=flat&color=black&logo=react&logoColor=61DAFB" height="32" />
@@ -13,10 +14,10 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-blue?style=flat&color=339933&logo=nodedotjs&logoColor=ffffff" height="32" />
 </p>
 
-<h3 align="center">Additional skills:</h3>
+<h4 align="center"></h4>
 
 <p align="center" display="flex" flex-wrap="wrap">
-   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-blue?style=flat&color=1572B6&logo=css3&logoColor=ffffff" height="24" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-blue?style=flat&color=1572B6&logo=css3&logoColor=ffffff" height="24" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-blue?style=flat&color=E34F26&logo=html5&logoColor=ffffff" height="24" />
   <img alt="Express" src="https://img.shields.io/badge/Express-blue?style=flat&color=000000&logo=express&logoColor=ffffff" height="24" />
   <img alt="Testing Library" src="https://img.shields.io/badge/TestingLibrary-blue?style=flat&color=E33332&logo=testinglibrary&logoColor=ffffff" height="24" />
@@ -35,8 +36,15 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-blue?style=flat&color=000000&logo=netlify&logoColor=ffffff" height="24" />
 </p>
 
-<h2 align="center">Contact me now!</h2>
+<p align="center" display="flex" flex-wrap="wrap">
+  English: <strong>Intermeadiate (B1)</strong>
+</p>
 
+<p align="center" display="flex" flex-wrap="wrap">
+  <img alt="Codewars Profile Badge" src="https://www.codewars.com/users/vovoka-path/badges/small?theme=light" />
+</p>
+
+<h3 align="center">Contact me!</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/areawed">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&color=f0f6fc&logo=linkedin&logoColor=0A66C2" height="32" />
@@ -54,6 +62,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&color=f0f6fc&logo=gmail&logoColor=EA4335" height="32" />
   </a>
 </p>
+
 
 <!--
 **vovoka-path/vovoka-path** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
