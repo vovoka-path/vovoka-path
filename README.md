@@ -1,12 +1,43 @@
 
-<h2 align="center">CV -> <a href="https://vovoka.space/">https://vovoka.space</a></h2>
+<h2 align="center">CV: <a href="https://vovoka.space/">https://vovoka.space</a></h2>
 
-<h4 align="center">Open to work! </h4>
 <h1 align="center"><a href="https://vovoka.space/">Vladimir Polansky</a></h1>
 
 <p align="center" display="flex" flex-wrap="wrap">
   English: <strong>Intermeadiate (B1)</strong>
 </p>
+
+***
+
+<h2 align="center">My projects</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>MY CV WEBSITE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">Recruiter, I appreciate your attention to me. I created <a href="https://vovoka.space" rel="nofollow">vovoka.space</a> for you. It's about me as a frontend developer. I hope I can go into more detail and save you some time.</td>
+    </tr>
+    <tr>
+      <td align="center">React, Gatsby, Typescript, MaterialUI</td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td align="center"><img src="https://user-images.githubusercontent.com/76701292/213324387-b73a9185-ed59-4c9a-ba24-97295d4f3cee.jpg" /></td>
+            <td align="center"><a href="https://github.com/vovoka-path/my-cv-page">Source code</a></td>
+            <td align="center"><a href="https://vovoka.space" rel="nofollow">Deploy</a></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+  
 
 <h2 align="center">Skills</h2>
 <div>
