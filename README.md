@@ -31,27 +31,23 @@
 <h2 align="center">My projects</h2>
 
 <table align="center">
-  <thead>
+<!--   <thead>
     <tr>
       <th>MY CV WEBSITE</th>
     </tr>
-  </thead>
+  </thead> -->
   <tbody>
     <tr>
-      <td align="left">Recruiter, I appreciate your attention to me. I created <a href="https://vovoka.space" rel="nofollow">vovoka.space</a> for you. It's about me as a frontend developer. I hope I can go into more detail and save you some time.</td>
-    </tr>
-    <tr>
-      <td align="center">React, Gatsby, Typescript, MaterialUI</td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td align="center"><img src="https://user-images.githubusercontent.com/76701292/213324387-b73a9185-ed59-4c9a-ba24-97295d4f3cee.jpg" /></td>
-            <td align="center"><a href="https://github.com/vovoka-path/my-cv-page">Source code</a></td>
-            <td align="center"><a href="https://vovoka.space" rel="nofollow">Deploy</a></td>
-          </tr>
-        </table>
+      <td align="center">
+        <div><img src="https://user-images.githubusercontent.com/76701292/213324387-b73a9185-ed59-4c9a-ba24-97295d4f3cee.jpg" /></div>
+        <p align="center"><strong><a href="https://github.com/vovoka-path/my-cv-page">Source</a> / <a href="https://vovoka.space" rel="nofollow">Deploy</a></strong></p>
+      </td>
+      <td align="left">
+        <h3>CV website</h3>
+        <p><strong>Description: </strong>Recruiter, I appreciate your attention to me. I created <a href="https://vovoka.space" rel="nofollow">vovoka.space</a> for you. It's about me as a frontend developer. I hope I can go into more detail and save you some time.</p>
+        <p><strong>Features: </strong>SSG, PWA, SEO, rich snippets for social media, use schema.org, adaptive layout, swiping hamburger menu, loading speed acceleration</p>
+        <p><strong>Stack: </strong>React, Gatsby, Typescript, MaterialUI</p>
+        <p><strong>Development: </strong>12.11.2022 - 20.01.2023</p>
       </td>
     </tr>
   </tbody>
