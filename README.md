@@ -1,5 +1,6 @@
 
-<h2 align="center">CV: <a href="https://vovoka.space/">https://vovoka.space</a></h2>
+<h2 align="center">Recruiter, I appreciate your attention to me.</h2>
+<h4 align="center">I created <a href="https://vovoka.space" rel="nofollow">vovoka.space</a> for you. I hope I can go into more detail and save you some time.</h4>
 
 <h1 align="center"><a href="https://vovoka.space/">Vladimir Polansky</a></h1>
 
@@ -44,7 +45,7 @@
       </td>
       <td align="left">
         <h3>CV website</h3>
-        <p><strong>Description: </strong>Recruiter, I appreciate your attention to me. I created <a href="https://vovoka.space" rel="nofollow">vovoka.space</a> for you. It's about me as a frontend developer. I hope I can go into more detail and save you some time.</p>
+        <p><strong>Description: </strong>It's about me as a frontend developer. Here you can find my CV and contacts.</p>
         <p><strong>Features: </strong>SSG, PWA, SEO, rich snippets for social media, use schema.org, adaptive layout, swiping hamburger menu, loading speed acceleration</p>
         <p><strong>Stack: </strong>React, Gatsby, Typescript, MaterialUI</p>
         <p><strong>Development: </strong>12.11.2022 - 20.01.2023</p>
