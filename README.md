@@ -2,11 +2,9 @@
 <h2 align="center">Recruiter, I appreciate your attention to me.</h2>
 <h4 align="center">I created <a href="https://vovoka.space" rel="nofollow">vovoka.space</a> for you. I hope I can go into more detail and save you some time.</h4>
 
-<h1 align="center"><a href="https://vovoka.space/">Vladimir Polansky</a></h1>
+![linkedin-cover-v2](https://user-images.githubusercontent.com/76701292/214155357-8473da5d-cd6e-4110-a68b-96ec3fddcf34.jpg)
 
-<p align="center" display="flex" flex-wrap="wrap">
-  English: <strong>Intermeadiate (B1)</strong>
-</p>
+<h1 align="center"><a href="https://vovoka.space/">Vladimir Polansky</a></h1>
 
 <h3 align="center">Contact me:</h3>
 <p align="center">
@@ -25,6 +23,10 @@
   <a href="mailto:vovoka.path@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&color=f0f6fc&logo=gmail&logoColor=EA4335" height="32" />
   </a>
+</p>
+
+<p align="center" display="flex" flex-wrap="wrap">
+  English: <strong>Intermeadiate (B1)</strong>
 </p>
 
 ***
