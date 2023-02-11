@@ -1,6 +1,6 @@
 
 <h2 align="center">Recruiter, I appreciate your attention to me.</h2>
-<h4 align="center">I have to find a new job in no time. I created <a href="https://vovoka.space" rel="nofollow">vovoka.space</a> for you. I hope I can go into more detail and save you some time.</h4>
+<h4 align="center">I created <a href="https://vovoka.space" rel="nofollow">vovoka.space</a> for you. I hope I can go into more detail and save you some time.</h4>
 
 ![linkedin-cover-v2](https://user-images.githubusercontent.com/76701292/214155357-8473da5d-cd6e-4110-a68b-96ec3fddcf34.jpg)
 
