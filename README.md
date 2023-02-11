@@ -131,9 +131,6 @@
   </p>
 </div>
 
-<p align="center" display="flex" flex-wrap="wrap">
-  <img alt="Codewars Profile Badge" src="https://www.codewars.com/users/vovoka-path/badges/small?theme=light" />
-</p>
 
 <h3 align="center">Contact me:</h3>
 <p align="center">
@@ -155,6 +152,10 @@
 </p>
 
 <hr>
+
+<p align="center" display="flex" flex-wrap="wrap">
+  <img alt="Codewars Profile Badge" src="https://www.codewars.com/users/vovoka-path/badges/small?theme=light" />
+</p>
 
 <div id="views_counter " align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovoka-path&layout=compact"><br><br>
