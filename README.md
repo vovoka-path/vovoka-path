@@ -67,7 +67,7 @@
       <td align="left">
         <h3>CRM app</h3>
         <p>
-			<strong>Description: </strong>CRM system for employee interaction and REST API backend with database. I was Teamlead.</p>
+			<strong>Description: </strong>CRM system for employee interaction and REST API backend with database.</p>
         <p><strong>
 			Features: </strong>10 steps of the business process, 3 roles for employees, 12 Manager pages, 7 Photographer pages, 5 Editor pages, add/update/delete users, internal communication, email alerts, statistics.<a href="https://github.com/vovoka-path/rs-clone/tree/develop/crm"> More...</a></p>
         <p>
@@ -157,8 +157,18 @@
 <hr>
 
 <div id="views_counter " align="center">
-  <img src="https://komarev.com/ghpvc/?username=vovoka-path&style=flat-square&color=blue" alt=""/><br>(since February 2, 2023)
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovoka-path&layout=compact"><br><br>
+	<img src="https://komarev.com/ghpvc/?username=vovoka-path&style=flat-square&color=blue" alt=""/><br>(since February 2, 2023)
 </div>
+
+
+
+
+
+
+
+
+
 
 <!--
 **vovoka-path/vovoka-path** is a ? _special_ ? repository because its `README.md` (this file) appears on your GitHub profile.
