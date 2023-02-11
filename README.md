@@ -39,18 +39,37 @@
       <th>MY CV WEBSITE</th>
     </tr>
   </thead> -->
+  
   <tbody>
     <tr>
       <td align="center">
         <div><img src="https://user-images.githubusercontent.com/76701292/213324387-b73a9185-ed59-4c9a-ba24-97295d4f3cee.jpg" /></div>
-        <p align="center"><strong><a href="https://github.com/vovoka-path/my-cv-page">Source</a> / <a href="https://vovoka.space" rel="nofollow">Deploy</a></strong></p>
+        <p align="center"><strong><a href="https://github.com/vovoka-path/my-cv-page">Source</a> / <a href="https://vovoka.space">Deploy</a></strong></p>
       </td>
       <td align="left">
         <h3>CV website</h3>
         <p><strong>Description: </strong>It's about me as a frontend developer. Here you can find my CV and contacts.</p>
-        <p><strong>Features: </strong>SSG, PWA, SEO, rich snippets for social media, use schema.org, adaptive layout, swiping hamburger menu, loading speed acceleration</p>
-        <p><strong>Stack: </strong>React, Gatsby, Typescript, MaterialUI</p>
-        <p><strong>Development: </strong>12.11.2022 - 20.01.2023</p>
+        <p><strong>Features: </strong>SSG, PWA, SEO, rich snippets for social media, use schema.org, adaptive layout, swiping hamburger menu, loading speed acceleration. <a href="https://github.com/vovoka-path/my-cv-page">More...</a></p>
+        <p><strong>Stack: </strong>React, Gatsby, Typescript, MaterialUI.</p>
+        <p><strong>Ended: </strong>20.01.2023</p>
+      </td>
+    </tr>
+  </tbody>
+  
+  <tbody>
+    <tr>
+      <td align="center">
+        <div><img src="https://user-images.githubusercontent.com/76701292/218257922-ec7daea6-38bc-429a-b9d2-7dab80b02e25.jpg" /></div>
+        <p align="center">Frontend: <strong><a href="https://github.com/vovoka-path/todo-app">Source</a> / <a href="https://todo-app-beegee.vercel.app" rel="nofollow">Deploy</a></strong><br>
+          Backend: <strong><a href="https://github.com/vovoka-path/todo-app-api">Source</a> / <a href="https://todo-app-api-production.up.railway.app/">Deploy</a></strong></p>
+      </td>
+      <td align="left">
+        <h3>Todo app</h3>
+        <p><strong>Description: </strong>The minimal design app contains its own API for todos and users.</p>
+        <p><strong>Features: </strong>Sighn in/out (use access/refresh tokens), todo edit mode, validation, sorting, pangination, pop-up alerts of success/error (feedback from backend). <a href="https://github.com/vovoka-path/todo-app">More...</a></p>
+        <p><strong>FE stack: </strong>React, Typescript, Mobx, MaterialUI.<br>
+          <strong>BE stack: </strong>Node.js, Express, MySQL, Sequelize, jsonwebtoken, bcrypt.</p>
+        <p><strong>Ended: </strong>10.02.2023</p>
       </td>
     </tr>
   </tbody>
@@ -115,16 +134,16 @@
 
 
 <!--
-**vovoka-path/vovoka-path** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vovoka-path/vovoka-path** is a ? _special_ ? repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ?? I’m currently working on ...
+- ?? I’m currently learning ...
+- ?? I’m looking to collaborate on ...
+- ?? I’m looking for help with ...
+- ?? Ask me about ...
+- ?? How to reach me: ...
+- ?? Pronouns: ...
+- ? Fun fact: ...
 -->
