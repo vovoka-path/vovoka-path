@@ -88,7 +88,7 @@
       <td align="left">
         <h3><a href="https://todo-app-beegee.vercel.app" rel="nofollow">Todo app</a></h3>
         <p><strong>Description: </strong>The minimal design app contains its own REST API for todos and users.</p>
-        <p><strong>Features: </strong>Sighn in/out (use access/refresh tokens), todo edit mode, validation, sorting, pangination, pop-up alerts of success/error (feedback from backend). <a href="https://github.com/vovoka-path/todo-app">More...</a></p>
+        <p><strong>Features: </strong>Sign in/out (use access/refresh tokens), todo edit mode, validation, sorting, pangination, pop-up alerts of success/error (feedback from backend). <a href="https://github.com/vovoka-path/todo-app">More...</a></p>
         <p><strong>FE stack: </strong>React, Typescript, Mobx, MaterialUI.<br>
           <strong>BE stack: </strong>Node.js, Express, MySQL, Sequelize, jsonwebtoken, bcrypt.</p>
         <p><strong>Ended: </strong>10.02.2023</p>
