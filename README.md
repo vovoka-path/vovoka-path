@@ -67,7 +67,7 @@
       <td align="left">
         <h3><a href="https://vovoka-path.github.io/rs-clone/crm/" rel="nofollow">CRM app</a></h3>
         <p>
-			<strong>Description: </strong>CRM system for employee interaction and REST API backend with database.</p>
+			<strong>Description: </strong>CRM system for European Photo Agency with REST API backend.</p>
         <p><strong>
 			Features: </strong>10 steps of the business process, 3 roles for employees, 12 Manager pages, 7 Photographer pages, 5 Editor pages, add/update/delete users, internal communication, email alerts, statistics.<a href="https://github.com/vovoka-path/rs-clone/tree/develop/crm"> More...</a></p>
         <p>
