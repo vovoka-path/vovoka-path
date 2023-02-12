@@ -47,7 +47,7 @@
         <p align="center"><strong><a href="https://github.com/vovoka-path/my-cv-page">Source</a> / <a href="https://vovoka.space">Deploy</a></strong></p>
       </td>
       <td align="left">
-        <h3>CV website</h3>
+        <h3><a href="https://vovoka.space">My CV website</a></h3>
         <p><strong>Description: </strong>It's about me as a frontend developer. Here you can find my CV and contacts.</p>
         <p><strong>Features: </strong>SSG, PWA, SEO, rich snippets for social media, use schema.org, adaptive layout, swiping hamburger menu, loading speed acceleration. <a href="https://github.com/vovoka-path/my-cv-page">More...</a></p>
         <p><strong>Stack: </strong>React, Gatsby, Typescript, MaterialUI.</p>
@@ -65,7 +65,7 @@
 			Backend: <strong><a href="https://github.com/vovoka-path/rs-clone/tree/develop/server">Source</a> / <a href="https://render.com/">Deploy</a></strong></p>
       </td>
       <td align="left">
-        <h3>CRM app</h3>
+        <h3><a href="https://vovoka-path.github.io/rs-clone/crm/" rel="nofollow">CRM app</a></h3>
         <p>
 			<strong>Description: </strong>CRM system for employee interaction and REST API backend with database.</p>
         <p><strong>
@@ -86,7 +86,7 @@
           Backend: <strong><a href="https://github.com/vovoka-path/todo-app-api">Source</a> / <a href="https://todo-app-api-production.up.railway.app/">Deploy</a></strong></p>
       </td>
       <td align="left">
-        <h3>Todo app</h3>
+        <h3><a href="https://todo-app-beegee.vercel.app" rel="nofollow">Todo app</a></h3>
         <p><strong>Description: </strong>The minimal design app contains its own REST API for todos and users.</p>
         <p><strong>Features: </strong>Sighn in/out (use access/refresh tokens), todo edit mode, validation, sorting, pangination, pop-up alerts of success/error (feedback from backend). <a href="https://github.com/vovoka-path/todo-app">More...</a></p>
         <p><strong>FE stack: </strong>React, Typescript, Mobx, MaterialUI.<br>
