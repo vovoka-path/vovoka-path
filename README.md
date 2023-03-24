@@ -65,11 +65,11 @@
 			Backend: <strong><a href="https://github.com/vovoka-path/rs-clone/tree/develop/server">Source</a> / <a href="https://render.com/">Deploy</a></strong></p>
       </td>
       <td align="left">
-        <h3><a href="https://vovoka-path.github.io/rs-clone/crm/" rel="nofollow">CRM app</a></h3>
+        <h3><a href="https://github.com/vovoka-path/rs-clone/tree/main" rel="nofollow">CRM app</a></h3>
         <p>
 			<strong>Description: </strong>CRM system for European Photo Agency with REST API backend.</p>
         <p><strong>
-			Features: </strong>10 steps of the business process, 3 roles for employees, 12 Manager pages, 7 Photographer pages, 5 Editor pages, add/update/delete users, internal communication, email alerts, statistics.<a href="https://github.com/vovoka-path/rs-clone/tree/develop/crm"> More...</a></p>
+			Features: </strong>10 steps of the business process, 3 roles for employees, 12 Manager pages, 7 Photographer pages, 5 Editor pages, add/update/delete users, internal communication, email alerts, statistics.<a href="https://github.com/vovoka-path/rs-clone/tree/main"> More...</a></p>
         <p>
 			<strong>FE stack: </strong>Javascript, Webpack, Chart.js.<br>
 			<strong>BE stack: </strong>Node.js, Express, MongoDB, mongoose, jsonwebtoken, bcrypt, nodemailer.</p>
