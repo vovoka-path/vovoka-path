@@ -47,7 +47,7 @@
         <p align="center"><strong><a href="https://github.com/vovoka-path/my-cv-page">Source</a> / <a href="https://vovoka.space">Deploy</a></strong></p>
       </td>
       <td align="left">
-        <h3><a href="https://vovoka.space">My CV website</a></h3>
+        <h3><a href="https://github.com/vovoka-path/my-cv-page">My CV website</a></h3>
         <p><strong>Description: </strong>It's about me as a frontend developer. Here you can find my CV and contacts.</p>
         <p><strong>Features: </strong>SSG, PWA, SEO, rich snippets for social media, use schema.org, adaptive layout, swiping hamburger menu, loading speed acceleration. <a href="https://github.com/vovoka-path/my-cv-page">More...</a></p>
         <p><strong>Stack: </strong>React, Gatsby, Typescript, MaterialUI.</p>
@@ -86,7 +86,7 @@
           Backend: <strong><a href="https://github.com/vovoka-path/todo-app-api">Source</a> / <a href="https://todo-app-api-production.up.railway.app/">Deploy</a></strong></p>
       </td>
       <td align="left">
-        <h3><a href="https://todo-app-beegee.vercel.app" rel="nofollow">Todo app</a></h3>
+        <h3><a href="https://github.com/vovoka-path/todo-app" rel="nofollow">Todo app</a></h3>
         <p><strong>Description: </strong>The minimal design app contains its own REST API for todos and users.</p>
         <p><strong>Features: </strong>Sign in/out (use access/refresh tokens), todo edit mode, validation, sorting, pangination, pop-up alerts of success/error (feedback from backend). <a href="https://github.com/vovoka-path/todo-app">More...</a></p>
         <p><strong>FE stack: </strong>React, Typescript, Mobx, MaterialUI.<br>
