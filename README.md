@@ -31,7 +31,7 @@
 
 ***
 
-<h2 align="center">My latest most important projects</h2>
+<h2 align="center">Latest projects</h2>
 
 <table align="center">
 <!--   <thead>
