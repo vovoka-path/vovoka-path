@@ -1,10 +1,10 @@
 
 <!-- <h2 align="center">Recruiter, I appreciate your attention to me.</h2> -->
-<h4 align="center">Recruiter, I created <a href="https://vovoka.space" rel="nofollow">vovoka.space</a> for you. I hope I can go into more detail and save you some time.</h4>
+<h4 align="center">Recruiter, I created <a href="https://cv.vladimirpolansky.com" rel="nofollow">cv.vladimirpolansky.com</a> for you. I hope I can go into more detail and save you some time.</h4>
 
 ![linkedin-cover-v2](https://user-images.githubusercontent.com/76701292/214155357-8473da5d-cd6e-4110-a68b-96ec3fddcf34.jpg)
 
-<h1 align="center"><a href="https://vovoka.space/">Vladimir Polansky</a></h1>
+<h1 align="center"><a href="https://cv.vladimirpolansky.com/">Vladimir Polansky</a></h1>
 
 <h3 align="center">Contact me:</h3>
 <p align="center">
@@ -44,7 +44,7 @@
     <tr>
       <td align="center">
         <div><img src="https://user-images.githubusercontent.com/76701292/213324387-b73a9185-ed59-4c9a-ba24-97295d4f3cee.jpg" /></div>
-        <p align="center"><strong><a href="https://github.com/vovoka-path/my-cv-page">Source</a> / <a href="https://vovoka.space">Deploy</a></strong></p>
+        <p align="center"><strong><a href="https://github.com/vovoka-path/my-cv-page">Source</a> / <a href="https://cv.vladimirpolansky.com">Deploy</a></strong></p>
       </td>
       <td align="left">
         <h3><a href="https://github.com/vovoka-path/my-cv-page">My CV website</a></h3>
