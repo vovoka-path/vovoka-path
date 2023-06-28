@@ -49,7 +49,7 @@
       <td align="left">
         <h3><a href="https://github.com/vovoka-path/my-cv-page">My CV website</a></h3>
         <p><strong>Description: </strong>It's about me as a frontend developer. Here you can find my CV and contacts.</p>
-        <p><strong>Features: </strong>SSG, PWA, SEO, rich snippets for social media, use schema.org, adaptive layout, swiping hamburger menu, loading speed acceleration. <a href="https://github.com/vovoka-path/my-cv-page">More...</a></p>
+        <p><strong>Features: </strong>SSG, PWA, SEO, rich snippets for social media, use schema.org, adaptive layout, swiping hamburger menu, loading speed acceleration. <a href="https://github.com/vovoka-path/my-cv-page">More details...</a></p>
         <p><strong>Stack: </strong>React, Gatsby, Typescript, MaterialUI.</p>
         <p><strong>Ended: </strong>20.01.2023</p>
       </td>
@@ -61,8 +61,8 @@
       <td align="center">
         <div><img src="https://user-images.githubusercontent.com/76701292/218261115-305e6eee-7a32-411a-95b4-b028ce14a67d.jpg" /></div>
         <p align="center">
-			Frontend: <strong><a href="https://github.com/vovoka-path/rs-clone/tree/develop/crm">Source</a> / <a href="https://vovoka-path.github.io/rs-clone/crm/" rel="nofollow">Deploy</a></strong><br>
-			Backend: <strong><a href="https://github.com/vovoka-path/rs-clone/tree/develop/server">Source</a> / <a href="https://render.com/">Deploy</a></strong></p>
+			Frontend: <!-- <strong><a href="https://github.com/vovoka-path/rs-clone/tree/develop/crm">Source</a> / --> <a href="https://vovoka-path.github.io/rs-clone/crm/" rel="nofollow">Deploy</a></strong><br>
+			Backend: <!-- <strong><a href="https://github.com/vovoka-path/rs-clone/tree/develop/server">Source</a> / --> <a href="https://render.com/">render.com</a></strong></p>
 	      <p align="center" font-size="0.5rem">Please wait 30 seconds to start the server</p
       </td>
       <td align="left">
@@ -70,7 +70,7 @@
         <p>
 			<strong>Description: </strong>CRM system for European Photo Agency with REST API backend.</p>
         <p><strong>
-			Features: </strong>10 steps of the business process, 3 roles for employees, 12 Manager pages, 7 Photographer pages, 5 Editor pages, add/update/delete users, internal communication, email alerts, statistics.<a href="https://github.com/vovoka-path/rs-clone/tree/main"> More...</a></p>
+			Features: </strong>10 steps of the business process, 3 roles for employees, 12 Manager pages, 7 Photographer pages, 5 Editor pages, add/update/delete users, internal communication, email alerts, statistics.<a href="https://github.com/vovoka-path/rs-clone/tree/main"> More details...</a></p>
         <p>
 			<strong>FE stack: </strong>Javascript, Webpack, Chart.js.<br>
 			<strong>BE stack: </strong>Node.js, Express, MongoDB, mongoose, jsonwebtoken, bcrypt, nodemailer.</p>
@@ -90,7 +90,7 @@
       <td align="left">
         <h3><a href="https://github.com/vovoka-path/todo-app" rel="nofollow">Todo app</a></h3>
         <p><strong>Description: </strong>The minimal design app contains its own REST API for todos and users.</p>
-        <p><strong>Features: </strong>Sign in/out (use access/refresh tokens), todo edit mode, validation, sorting, pangination, pop-up alerts of success/error (feedback from backend). <a href="https://github.com/vovoka-path/todo-app">More...</a></p>
+        <p><strong>Features: </strong>Sign in/out (use access/refresh tokens), todo edit mode, validation, sorting, pangination, pop-up alerts of success/error (feedback from backend). <a href="https://github.com/vovoka-path/todo-app">More details...</a></p>
         <p><strong>FE stack: </strong>React, Typescript, Mobx, MaterialUI.<br>
           <strong>BE stack: </strong>Node.js, Express, MySQL, Sequelize, jsonwebtoken, bcrypt.</p>
         <p><strong>Ended: </strong>10.02.2023</p>
