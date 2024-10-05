@@ -34,77 +34,7 @@
 
 ***
 
-<!--
 
-<h2 align="center">Latest projects</h2>
-
-<table align="center">
-<!--   <thead>
-    <tr>
-      <th>MY CV WEBSITE</th>
-    </tr>
-  </thead> -->
-  
-  <tbody>
-    <tr>
-      <td align="center">
-        <div><img src="https://user-images.githubusercontent.com/76701292/213324387-b73a9185-ed59-4c9a-ba24-97295d4f3cee.jpg" /></div>
-        <p align="center"><strong><a href="https://github.com/vovoka-path/my-cv-page">Source</a> / <a href="https://cv.vladimirpolansky.com">Deploy</a></strong></p>
-      </td>
-      <td align="left">
-        <h3><a href="https://github.com/vovoka-path/my-cv-page">My CV website</a></h3>
-        <p><strong>Description: </strong>It's about me as a frontend developer. Here you can find my CV and contacts.</p>
-        <p><strong>Features: </strong>SSG, PWA, SEO, rich snippets for social media, use schema.org, adaptive layout, swiping hamburger menu, loading speed acceleration. <a href="https://github.com/vovoka-path/my-cv-page">More details...</a></p>
-        <p><strong>Stack: </strong>React, Gatsby, Typescript, MaterialUI.</p>
-        <p><strong>Ended: </strong>20.01.2023</p>
-      </td>
-    </tr>
-  </tbody>
-  
-  <tbody>
-    <tr>
-      <td align="center">
-        <div><img src="https://user-images.githubusercontent.com/76701292/218261115-305e6eee-7a32-411a-95b4-b028ce14a67d.jpg" /></div>
-        <p align="center">
-			Frontend: <!-- <strong><a href="https://github.com/vovoka-path/rs-clone/tree/develop/crm">Source</a> / --> <a href="https://vovoka-path.github.io/rs-clone/crm/" rel="nofollow">Deploy</a></strong><br>
-			Backend: <!-- <strong><a href="https://github.com/vovoka-path/rs-clone/tree/develop/server">Source</a> / --> <a href="https://render.com/">render.com</a></strong></p>
-	      <p align="center" font-size="0.5rem">Please wait 30 seconds to start the server</p
-      </td>
-      <td align="left">
-        <h3><a href="https://github.com/vovoka-path/rs-clone/tree/main" rel="nofollow">CRM app</a></h3>
-        <p>
-			<strong>Description: </strong>CRM system for European Photo Agency with REST API backend.</p>
-        <p><strong>
-			Features: </strong>10 steps of the business process, 3 roles for employees, 12 Manager pages, 7 Photographer pages, 5 Editor pages, add/update/delete users, internal communication, email alerts, statistics.<a href="https://github.com/vovoka-path/rs-clone/tree/main"> More details...</a></p>
-        <p>
-			<strong>FE stack: </strong>Javascript, Webpack, Chart.js.<br>
-			<strong>BE stack: </strong>Node.js, Express, MongoDB, mongoose, jsonwebtoken, bcrypt, nodemailer.</p>
-        <p><strong>Ended: </strong>05.09.2022</p>
-      </td>
-    </tr>
-  </tbody>
-  
-  <tbody>
-    <tr>
-      <td align="center">
-        <div><img src="https://user-images.githubusercontent.com/76701292/218257922-ec7daea6-38bc-429a-b9d2-7dab80b02e25.jpg" /></div>
-        <p align="center">Frontend: <strong><a href="https://github.com/vovoka-path/todo-app">Source</a> / <a href="https://todo-app-beegee.vercel.app" rel="nofollow">Deploy</a></strong><br>
-          Backend: <strong><a href="https://github.com/vovoka-path/todo-app-api">Source</a> / <a href="https://todo-app-api-08a4.onrender.com/">Deploy</a></strong></p>
-	      <p align="center" font-size="0.5rem">Please wait 30 seconds to start the server</p
-      </td>
-      <td align="left">
-        <h3><a href="https://github.com/vovoka-path/todo-app" rel="nofollow">Todo app</a></h3>
-        <p><strong>Description: </strong>The minimal design app contains its own REST API for todos and users.</p>
-        <p><strong>Features: </strong>Sign in/out (use access/refresh tokens), todo edit mode, validation, sorting, pangination, pop-up alerts of success/error (feedback from backend). <a href="https://github.com/vovoka-path/todo-app">More details...</a></p>
-        <p><strong>FE stack: </strong>React, Typescript, Mobx, MaterialUI.<br>
-          <strong>BE stack: </strong>Node.js, Express, MySQL, Sequelize, jsonwebtoken, bcrypt.</p>
-        <p><strong>Ended: </strong>10.02.2023</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
--->
 
 <h2 align="center">Skills</h2>
 <div>
@@ -170,26 +100,3 @@
 	<img src="https://komarev.com/ghpvc/?username=vovoka-path&style=flat-square&color=blue" alt=""/><br>(since February 2, 2023)
 </div>
 
-
-
-
-
-
-
-
-
-
-<!--
-**vovoka-path/vovoka-path** is a ? _special_ ? repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ?? I’m currently working on ...
-- ?? I’m currently learning ...
-- ?? I’m looking to collaborate on ...
-- ?? I’m looking for help with ...
-- ?? Ask me about ...
-- ?? How to reach me: ...
-- ?? Pronouns: ...
-- ? Fun fact: ...
--->
