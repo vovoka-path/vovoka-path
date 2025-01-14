@@ -1,13 +1,12 @@
-
 <!-- 
-<h2 align="center">Recruiter, I appreciate your attention to me.</h2>
-<h4 align="center">Recruiter, I created <a href="https://cv.vladimirpolansky.com" rel="nofollow">cv.vladimirpolansky.com</a> for you. I hope I can go into more detail and save you some time.</h4>
-
 ![linkedin-cover-v2](https://user-images.githubusercontent.com/76701292/214155357-8473da5d-cd6e-4110-a68b-96ec3fddcf34.jpg)
-
- -->
+-->
  
 <h1 align="center"><a href="https://cv.vladimirpolansky.com/">Vladimir Polansky</a></h1>
+<h3 align="center">Full stack developer</h3>
+<p align="center" display="flex" flex-wrap="wrap">
+  English: <strong>Intermeadiate (B1)</strong>
+</p>
 
 <h3 align="center">Contact me:</h3>
 <p align="center">
@@ -28,23 +27,18 @@
   </a>
 </p>
 
-<p align="center" display="flex" flex-wrap="wrap">
-  English: <strong>Intermeadiate (B1)</strong>
-</p>
-
 ***
-
-
 
 <h2 align="center">Skills</h2>
 <div>
   <div align="center" display="flex" flex-wrap="wrap">
-    <img alt="React" src="https://img.shields.io/badge/React-blue?style=flat&color=black&logo=react&logoColor=61DAFB" height="48" width="15%" />
-    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat&color=F7DF1E&logo=javascript&logoColor=ffffff" height="48" width="20%" />
-    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-blue?style=flat&color=3178C6&logo=typescript&logoColor=ffffff" height="48" width="20%" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-blue?style=flat&color=339933&logo=nodedotjs&logoColor=ffffff" height="48" width="18%" />
+    <img alt="React" src="https://img.shields.io/badge/React-blue?style=flat&color=black&logo=react&logoColor=61DAFB" height="48" width="15%" />
+    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-blue?style=flat&color=3178C6&logo=typescript&logoColor=ffffff" height="48" width="20%" />
+    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat&color=F7DF1E&logo=javascript&logoColor=ffffff" height="48" width="20%" />
   </div>
-
+	
+<!-- 
   <h4 align="center"></h4>
 
   <p align="center" display="flex" flex-wrap="wrap">
@@ -63,13 +57,15 @@
     <img alt="Eslint" src="https://img.shields.io/badge/Eslint-blue?style=flat&color=4B32C3&logo=eslint&logoColor=ffffff" height="24" />
     <img alt="Prettier" src="https://img.shields.io/badge/Prettier-blue?style=flat&color=F7B93E&logo=prettier&logoColor=ffffff" height="24" />
     <img alt="WordPress" src="https://img.shields.io/badge/WordPress-blue?style=flat&color=117AC9&logo=WordPress&logoColor=ffffff" height="24" />
-    <!-- <img alt="Postman" src="https://img.shields.io/badge/Postman-blue?style=flat&color=F7B93E&logo=postman&logoColor=ffffff" height="24" /> -->
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-blue?style=flat&color=F7B93E&logo=postman&logoColor=ffffff" height="24" />
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-blue?style=flat&color=430098&logo=heroku&logoColor=ffffff" height="24" />
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-blue?style=flat&color=000000&logo=netlify&logoColor=ffffff" height="24" />
   </p>
+   -->
+   
 </div>
 
-
+<!-- 
 <h3 align="center">Contact me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/areawed">
@@ -88,7 +84,8 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&color=f0f6fc&logo=gmail&logoColor=EA4335" height="32" />
   </a>
 </p>
-
+ -->
+ 
 <hr>
 
 <p align="center" display="flex" flex-wrap="wrap">
